@@ -43,7 +43,7 @@ To evaluate the performance of sorting algorithms, the following methodology was
    - Each dataset was tested five times, and the average time was calculated for consistency.
 
 5. **Data Presentation**:
-   - Performance data is presented in tables. **Refer to the tables in the section [Performance Data](https://github.com/Luis-Tanese/Sorting-Algorithms/edit/main/README.md#performance-data)**.
+   - Performance data is presented in tables. **Refer to the tables in the section [Performance Data](#performance-data)**.
 
 ---
 
