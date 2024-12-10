@@ -34,4 +34,4 @@ Object.entries(datasets).forEach(([datasetName, data]) => {
     });
 });
 
-console.log("Results recorded. Update performance.md with the data.");
+console.log("Results recorded you silly.");
